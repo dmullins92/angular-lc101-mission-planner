@@ -1,0 +1,16 @@
+.box {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+ }
+
+ body {
+     background-color: #eee;
+     text-align: center;
+ }
+
+ html {
+	margin: 5px;
+    padding: 20px;
+    background-color: rgb(99, 99, 99);
+}
